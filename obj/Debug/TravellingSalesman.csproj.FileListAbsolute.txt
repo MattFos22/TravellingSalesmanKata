@@ -1,0 +1,6 @@
+c:\users\fostem\documents\visual studio 2015\Projects\TravellingSalesman\TravellingSalesman\bin\Debug\TravellingSalesman.dll
+c:\users\fostem\documents\visual studio 2015\Projects\TravellingSalesman\TravellingSalesman\bin\Debug\TravellingSalesman.pdb
+c:\users\fostem\documents\visual studio 2015\Projects\TravellingSalesman\TravellingSalesman\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\fostem\documents\visual studio 2015\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\TravellingSalesman.csprojResolveAssemblyReference.cache
+c:\users\fostem\documents\visual studio 2015\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\TravellingSalesman.dll
+c:\users\fostem\documents\visual studio 2015\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\TravellingSalesman.pdb
