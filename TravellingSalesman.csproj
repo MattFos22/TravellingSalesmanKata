@@ -50,6 +50,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="DistanceCalculator.cs" />
+    <Compile Include="Route.cs" />
     <Compile Include="TravellingSalesmanTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
